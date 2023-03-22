@@ -1,2 +1,3 @@
-# databricks_jobs
-Code to test the production of code on Databricks Workflows, Jobs and Pipelines
+# Databrick kapulidor demo
+
+Just to test jobs in Databricks

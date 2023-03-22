@@ -1,16 +1,4 @@
-"""
-This script named 'controller' is created to instantiate lola_utils Controller.
-The command line arguments accepted by lola_utils Controller are passed to
-'controller.py'.
-Usage:
-From terminal, use the following command:
-python controller.py
-    --service <service_name>
-    --processes <comma separated process_names>
-    --service_root_path <path to directory where services and processes exist>
-    --service_config_path <name of json service(s) config file(s)>
-                        for example: feature_store.json,default.json
-"""
+# Databricks notebook source
 import logging
 import os
 import sys

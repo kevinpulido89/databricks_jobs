@@ -1,4 +1,3 @@
-# Databricks notebook source
 import logging
 import os
 import sys
